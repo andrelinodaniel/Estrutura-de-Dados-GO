@@ -200,7 +200,7 @@ Estrutura-de-Dados-GO/
 
 <div align="center">
 
-**Andre Lino Daniel** · Estudos de Estrutura de Dados em Go · 2026
+**Andrelino Daniel Filho** · Estudos de Estrutura de Dados em Go · 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-andrelinodaniel-181717?style=flat-square&logo=github)](https://github.com/andrelinodaniel)
 

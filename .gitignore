@@ -1,0 +1,33 @@
+# ─── Binários compilados ──────────────────────────────────────────────────────
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# ─── Arquivos de teste e build ────────────────────────────────────────────────
+*.test
+*.out
+/bin/
+/dist/
+
+# ─── Módulos Go ───────────────────────────────────────────────────────────────
+# Mantenha go.sum, mas ignore vendor se existir
+/vendor/
+
+# ─── Arquivos comprimidos ─────────────────────────────────────────────────────
+*.zip
+*.tar.gz
+*.rar
+
+# ─── IDE e sistema operacional ───────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ─── Logs e temporários ───────────────────────────────────────────────────────
+*.log
+tmp/
